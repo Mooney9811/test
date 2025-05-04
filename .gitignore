@@ -16,3 +16,33 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+
+learn-programming/
+│
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── curriculum/
+│   ├── 01_basics/
+│   │   ├── variables.py
+│   │   ├── conditionals.py
+│   │   └── README.md
+│   ├── 02_data_structures/
+│   ├── 03_functions/
+│   ├── 04_oop/
+│   ├── 05_modules/
+│   └── 06_projects/
+│       ├── calculator/
+│       └── todo_app/
+│
+├── quizzes/
+│   ├── basics_quiz.md
+│   ├── functions_quiz.md
+│   └── answers/
+│       ├── basics_quiz_answers.md
+│
+└── resources/
+    ├── cheat_sheets/
+    └── useful_links.md
+
